@@ -1,1 +1,1 @@
-# cog403-final-project
+# Modelling the processing of garden-path sentences
