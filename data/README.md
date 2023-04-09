@@ -1,0 +1,1 @@
+This directory contains the predictions made by the depth-gram Backtracking model for both the normal and garden-path test sets. The surprisal threshold used ranges from 1.30 to 1.95 and each set of predictions for each surprisal are distinguished by comma-separation.
